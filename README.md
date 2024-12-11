@@ -14,7 +14,7 @@ Do the users spend more time on the new landing page than on the existing landin
 
 Is the conversion rate (the proportion of users who visit the landing page and get converted) for the new page greater than the conversion rate for the old page?
 
-Does the converted status depend on the preferred language? [Hint: Create a contingency table using the pandas.crosstab() function]
+Does the converted status depend on the preferred language? 
 
 Is the time spent on the new page the same for the different language users?
 
